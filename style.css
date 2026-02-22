@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: white;
+    border-radius: 100px;
+
+}
+.btn{
+    background-color: rgb(115, 8, 35);
+    color: antiquewhite;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+}
+.btn:hover{
+    background-color: rgb(182, 77, 35);
+}
